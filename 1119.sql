@@ -59,7 +59,7 @@ select distinct deptno
 
 
 
--- 데이터를 정렬해서 출력하기(ORDER BY)
+-- 예제 6. 데이터를 정렬해서 출력하기(ORDER BY)
 
 /* 이름과 월급을 출력하는데 월급이 낮은 사원부터 높은 사원 순으로 출력 */
 select ename, sal
